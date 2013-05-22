@@ -1,0 +1,33 @@
+{
+  "name": "flatiron-express",
+  "version": "0.1.0",
+  "description": "Plugin to integrate express as router into flatiron.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/domachine/flatiron-express.git"
+  },
+  "keywords": [
+    "flatiron",
+    "express"
+  ],
+  "author": "Dominik Burgdörfer <dominik.burgdoerfer@mikanda.de>",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.9.0",
+    "broadway": "~0.2.7",
+    "should": "~1.2.2",
+    "sinon": "~1.7.2",
+    "mockery": "~1.4.0"
+  },
+  "dependencies": {
+    "methods": "0.0.1",
+    "express": "~3.2.4"
+  }
+}
