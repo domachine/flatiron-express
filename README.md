@@ -1,5 +1,7 @@
 # flatiron-express
 
+** Support dropped since flatiron seems to be dead**
+
 Ever wanted to use `flatiron` with its awesome plugin features and
 configuration integration but get rid of this crappy `director` thing and use
 `express`?  This is what `flatiron-express` does.  It integrates `express` into
